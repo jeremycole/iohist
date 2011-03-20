@@ -1,0 +1,2 @@
+This is iohist, which makes histograms about IO information from Linux's
+/proc/diskstats information.
