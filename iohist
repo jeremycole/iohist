@@ -60,7 +60,7 @@ sub diff_stat
   my @metrics = (
     'r_ios', 'r_merges', 'r_sectors', 'r_ticks',
     'w_ios', 'w_merges', 'w_sectors', 'w_ticks',
-    'unk', 'ticks', 'aveq'
+    'in_progress', 'ticks', 'aveq'
   );
 
   foreach my $metric (@metrics)
